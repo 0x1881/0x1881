@@ -6,7 +6,6 @@
     <a href="https://instagram.com/0x1881" target="blank" rel="noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x1881" height="30" width="40" />
     <a href="https://t.me/laravelish" target="blank" rel="noreferrer nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="0x1881" height="30" width="40" /></a>
 </p>
-https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
