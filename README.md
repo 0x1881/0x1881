@@ -3,9 +3,10 @@
     <a href="https://0x1881.me/" target="blank"><img align="center" src="https://www.svgrepo.com/show/231646/worldwide-world.svg" alt="0x1881" height="30" width="40" /></a>
     <a href="https://twitter.com/0x1881" target="blank" rel="noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x1881" height="30" width="40" /></a>
     <a href="https://fb.com/0x1881" target="blank" rel="noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0x1881" height="30" width="40" /></a>
-    <a href="https://instagram.com/0x1881" target="blank" rel="noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x1881" height="30" width="40" /></a>
+    <a href="https://instagram.com/0x1881" target="blank" rel="noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x1881" height="30" width="40" />
+    <a href="https://t.me/laravelish" target="blank" rel="noreferrer nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="0x1881" height="30" width="40" /></a>
 </p>
-
+https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
