@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehmet Can ÜSTÜL
+# 👋 Hi, I'm Mehmet Can - Full-Stack Developer
 
 <h3 align="left">Connect with me</h3>
 
